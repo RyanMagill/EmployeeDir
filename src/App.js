@@ -1,4 +1,7 @@
 import React, {useEffect, useState} from 'react';
+import Header from './header/Header';
+import Table from './table/Table'
+import Search from './search/Search'
 import axios from 'axios'
 
 
